@@ -1,0 +1,23 @@
+local words = {
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+    'GET THIS SCRIPT FROM .GG/BR4ZhTAs',
+
+}
+
+local player = game.Players.LocalPlayer
+local keybind = 't'
+
+local event = game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Ud1cg5pR"))()
